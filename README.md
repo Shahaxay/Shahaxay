@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shahaxay
+- 👋 Hi, I’m Akshay Shah
 - 👀 I’m interested in android app development, web technology,full stack development.
 - 🌱 I’m currently learning web technology.
 - 💞️ I’m looking to collaborate on any one of three mentioned above.
